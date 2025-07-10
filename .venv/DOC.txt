@@ -1,0 +1,11 @@
+This is a Visualization of Stock Data With Candlestick Charts in Python
+
+Goal:
+a small application of Knoweldge in pandas matpotlib numpy
+
+Must be installed :
+to install:
+ -numpy
+ -matplotlib
+ -pandas-datareader
+ -yfinance
